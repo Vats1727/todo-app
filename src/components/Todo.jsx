@@ -1,5 +1,11 @@
-import React, { useState } from "react";
+<<<<<<< HEAD
+(Your local changes)
+=======
+(Changes from remote/main)
+>>>>>>> main
 
+
+import React, { useState } from "react";
 const Todo = () => {
   const [todos, setTodos] = useState([]);
   const [title, setTitle] = useState("My Todo");
